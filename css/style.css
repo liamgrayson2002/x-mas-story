@@ -1,0 +1,309 @@
+.head{
+	color: snow;
+	padding-top: 94px;
+	text-align: center;
+	font-family: Myriad Pro;
+	margin-bottom: 48px;
+}
+.story1-img{
+	width:300px;
+	height:200px;
+	margin-left: 40px;
+	border-radius: 12px;
+}
+.story1-about {
+	color: snow;
+	margin-left: 364px;
+	margin-right: 41px;
+	margin-top: -195px;
+	line-height: 37px;
+	letter-spacing: 1px;
+	font-size: 18px;
+	font-family: Myriad Pro;
+}
+.story2,
+.story3,
+.story4,
+.story5
+{
+	margin-top: 92px;
+}
+.story2-img,
+.story3-img,
+.story4-img,
+.story5-img
+{
+	width:300px;
+	height:200px;
+	margin-left: 40px;
+	border-radius: 12px;
+	//margin-top: -187px;
+	margin-top: 1px;
+	margin-bottom: -42px;
+}
+.story2-about,
+.story3-about,
+.story4-about,
+.story5-about
+ {
+	color: snow;
+	margin-left: 364px;
+	margin-right: 41px;
+	padding-top: -195px;
+	line-height: 37px;
+	letter-spacing: 1px;
+	font-size: 18px;
+	font-family: Myriad Pro;
+	margin-top: -205px;
+}
+.santa{
+	color: white;
+	margin-top: 110px;
+}
+.santa img{
+	float: right;
+	margin-right: 66px;
+}
+.santa h3{
+	color: white;
+	text-align: center;
+	border: solid 0.1px blanchedalmond;
+	width: 179px;
+	margin: 0 auto;
+	height: 96px;
+	border-radius: 35px 35px 0 35px;
+	font-size: 20px;
+	padding-top: 12px;
+	margin-right: 318px;
+	color: rosybrown;
+	font-family: Hobo Std;
+	background-color: snow;
+}
+.santa-history a{
+	color: snow;
+	margin-left: 57px;
+	font-size: 18px;
+	font-family: Myriad Pro;
+}
+.santa-history a:hover{
+	text-decoration: underline red;
+}
+.Santa-Claus{
+	margin-top: 0px;
+}
+.santa-claus-about1{
+	color: white;
+	margin-top: -395px;
+	margin-left: 364px;
+	margin-right: 59px;
+	border: solid 0.1em antiquewhite;
+	padding: 36px;
+	border-radius: 0 84px 84px;	
+	font-family: Myriad Pro;
+	font-size: 18px;
+}
+.Santa-Claus1{
+	width: 310px;
+	height: 553px;
+	padding-top: 52px;
+	margin-left: 35px;
+}
+.santa-claus-about2{
+	color: white;
+	margin-right: 364px;
+	margin-left: 59px;
+	border: solid 0.1em antiquewhite;
+	padding: 36px;
+	border-radius: 84px 84px 0 84px;
+	font-family: Myriad Pro;
+	font-size: 18px;
+	margin-top: 80px;
+}
+.Santa-Claus2{
+	width: 390px;
+	height: 500px;
+	padding-top: 1px;
+	margin-left: 630px;
+	margin-top: -508px
+}
+.Xtree{
+	margin-top: 110px;
+}
+.xmas-tree{
+	color: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+.clearfix{
+	border: solid 0.1px beige;
+	border-radius: 11px;
+	margin: 89px 13px 0 13px;
+}
+.clearfix h2{
+	color:white;
+	text-align: center;
+	text-shadow: 2px 2px 8px #FF0000;
+	font-size: 37px;
+}
+.first-word::first-letter{
+	font-size: 80px;
+	//font-style: italic;
+	float: left;
+    width: 1.5em;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    color: white;
+    font-size: 19.22px;
+	font-family: Myriad Pro;
+	margin-top: -36px;
+}
+.about-tree{
+	color: white;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.church{
+	color: white;
+	padding: 97px 30px 0px 30px;
+}
+.church img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 42px;
+	box-shadow: 1px 0px 5px 3px bisque;
+	width: 729px;
+}
+.church h3{
+	text-align: center;
+	font-size: 29px;
+	color: wheat;
+	font-style: oblique;
+}
+.ten-reason{
+	padding: 18px;
+    font-size: 18px;
+    border: solid 0.1px;
+    margin: 9px 10px;
+    border-radius: 17px;
+}
+* {
+  	box-sizing: border-box;
+}
+.churches{ 
+    max-width: 440px;
+    background-color: white;
+    color: black;
+	//padding: 11px;
+	margin: 107px 2px 0px 550px;
+    color: black;  
+}
+.churches img {
+	vertical-align: middle;
+
+}
+.churches.caption {
+  bottom: 0;
+  background-color: white;
+  color: white;
+  width: 100%;
+  //padding: 20px;
+}
+.caption p{
+	text-align: center;
+	font-size: 19px;
+}
+.celebrating{
+	color:white;
+	text-align: center;
+	font-family: Myriad Pro;
+	margin-top: 100px;
+	font-size: 20px;
+	color: bisque;
+	letter-spacing: 1.8px;
+}
+.celebrating1{
+	padding: 32px 20px 0 20px; 
+}
+.celebrating1 img,
+.celebrating4 img{
+	width: 500px;
+	float: right;
+}
+.celebrating1 p,
+.celebrating4 p{
+	color: #443f41;
+	width: 457px;
+	min-height: 300px;
+	background-color: bisque;
+	padding: 24px;
+	font-size: 19px;
+	line-height: 34px;
+	margin-right: 12px;
+	font-family: Tahoma;
+	letter-spacing: 0.15px;
+}
+.celebrating1 h1,
+.celebrating4 h1{
+	color: #443f41;
+	float: right;
+	width:500px;
+	margin-top: -127px;
+	height: 179px;
+	background-color: tan;
+	margin-right: 12px;
+	padding: 73px 103px;
+	font-family: Myriad Pro;
+	text-align: center;
+}
+.celebrating2{
+	padding: 0px 13px 0 9px;
+}
+.celebrating2 img,
+.celebrating5 img{
+	width: 500px;
+	margin-top: -21px;
+	margin-left: 20px;
+}
+.celebrating2 p,
+.celebrating5 p{
+	color: #443f41;
+	float: right;
+	width: 456px;
+	margin-top: 0px;
+	min-height: 300px;
+	background-color: bisque;
+	padding: 22px;
+	font-size: 19px;
+	line-height: 34px;
+	letter-spacing: 0.15px;
+	font-family: Tahoma;
+}
+.celebrating2 h1,
+.celebrating5 h1{
+	color: #443f41;
+	width: 534px;
+	margin-top: -27px;
+	height: 179px;
+	margin-left: 6px;
+	background-color: tan;
+	padding: 78px;
+	text-align: center;
+	font-family: Myriad Pro;
+}
+.celebrating4{
+	padding: 57px 20px 0 20px;
+	margin-top: -22px;
+}
+.celebrating5{
+	padding: 108px 13px 0 9px;
+}
